@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.titulo-principal{
+  padding-left: 40px;
+}
+
+body {
+  background: linear-gradient(#65e668, #e94949 60%)
+}
+
+
+#morango{
+  border: inset red 10px;
+}
+
+p {
+  color: white;
+}
+
+#Morango{
+  height: 300px;
+  width: 300px;
+  border: inset red 10px;
+}
